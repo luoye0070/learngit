@@ -8,3 +8,4 @@ Add in master.
 Creating a new branch is quick.
 Test add.
 >>>>>>> dev
+Creating a new branch is quick AND simple.
