@@ -5,4 +5,10 @@ Git tracks changs of files.
 Add in master.
 Creating a new branch is quick.
 Test add.
+<<<<<<< Updated upstream
 Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick & simple.
+
+ddddd
+>>>>>>> Stashed changes
