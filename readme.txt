@@ -12,3 +12,4 @@ Creating a new branch is quick & simple.
 
 ddddd
 >>>>>>> Stashed changes
+add add new user
